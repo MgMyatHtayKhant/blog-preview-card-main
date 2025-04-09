@@ -29,6 +29,7 @@ body {
   width: 100%;
   max-width: 360px;
   padding: 1rem;
+  margin: 0 1.5rem;
   background-color: var(--card-background-color);
   border-radius: 1rem;
   border: 2px solid var(--card-box-shadow-color);
