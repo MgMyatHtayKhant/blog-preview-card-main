@@ -26,7 +26,7 @@ I faced no challenges at all.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
