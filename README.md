@@ -30,8 +30,8 @@ I faced no challenges at all.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MgMyatHtayKhant/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://frontend-blog-preview.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/MgMyatHtayKhant/qr-code-component-main)
+- Live Site URL: [Live site URL here](https://frontend-blog-preview.netlify.app/)
 
 ## My process
 
@@ -48,7 +48,7 @@ I learned about root selector, resuable css selectors and how to use them effcti
 ## Author
 
 - Website - [Saul](https://saul-homepage.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Saul](https://www.frontendmentor.io/profile/MgMyatHtayKhant)
 
 ## Acknowledgments
 
